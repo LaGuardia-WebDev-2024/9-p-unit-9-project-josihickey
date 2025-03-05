@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
+
+
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://th.bing.com/th/id/R.9887ab8aa06c7e6607e6078fe759c8de?rik=6iFPo5Ll8AwL9w&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f2%2fc%2fd%2f73476.jpg&ehk=DC7Nc4nboQmaiyaLup5H2nyiO2HTb8d5mA%2f5UiJJ9%2fk%3d&risl=&pid=ImgRaw&r=0");
   text-align: center;
   margin: auto;
    font-family: "Poetsen One", serif;
@@ -10,12 +12,14 @@ body {
 h1{
   font-size: 30px;
   color: white;
+  font-family: "Meddon", serif;
 }
 
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
-  border: 5px solid white;
+  padding: 5px;
+  border: 40px double black;
 }
 
 
